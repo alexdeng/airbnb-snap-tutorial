@@ -10,7 +10,7 @@ title: KDD tutorial
 tagline: "causal inference"
 description: "Airbnb and Snap joint tutorial"
 url: http://alexdeng.github.io/airbnb-snap-tutorial
-baseurl: "/airbnb-snap-tutorial"
+baseurl: "/airbnb-snap-tutorial/"
 paginate:
 
 author:
