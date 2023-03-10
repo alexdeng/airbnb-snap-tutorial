@@ -1,0 +1,24 @@
+# Dependencies
+markdown: kramdown
+pygments: false
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: KDD tutorial
+tagline: "causal inference"
+description: "Airbnb and Snap joint tutorial"
+url: http://alexdeng.github.io/airbnb-snap-tutorial
+baseurl: "/airbnb-snap-tutorial/"
+paginate:
+
+author:
+  name: "Alex Deng"
+  url: https://alexdeng.github.io
+
+# Custom vars
+version: 1.0.0
+
+github:
+  repo: https://github.com/poole/lanyon
