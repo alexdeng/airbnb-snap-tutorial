@@ -40,11 +40,11 @@ __Meng Xu__ works on the Applied Research team at Snap Inc., focusing on causal 
 
 __Xi Zhang__ is a software engineer on the Applied Research team at Snap Inc., focusing on building quick prototypes and tooling for research scientists in a scalable fashion. Before joining the Applied Research team, she was one of the early team members on the experimentation platform at Snap Inc. and specializes in large-scale data processing pipelines.
 
+__Sicheng Lin__ is an applied data scientist on the Applied Research team at Snap Inc. His research interest is scalable causal inference and ML tooling, adaptive experimentation and user modeling. At Snap, he has worked on scalable balancing approaches, multi-armed bandit for AB testing and user behavior sequential modeling, etc. He received his Ph.D. from the Department of Physics, New York University.
+
+__Xiaolin Shi__ is Head of Applied Research at Snap Inc., where she leads a team of scientists and engineers with expertise in causal inference, statistics, data mining and scalable machine learning. Prior to Snap, Xiaolin worked at Microsoft Bing, Microsoft Research and Yahoo Research. Her research interests span areas including causal inference, experimentation, user modeling and network science.
+
 __John Cai__
-
-
-__Xiaolin Shi__
-
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}
