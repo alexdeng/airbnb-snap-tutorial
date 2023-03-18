@@ -8,9 +8,12 @@ markdown: kramdown
 # Causal Inference with Large-scale Observational Data in Practice: Industrial Tooling and Use Cases at Snap and Airbnb
 
 ## Abstract
-Product launches and iterations are a critical driver of business success and growth, but understanding their causal impact can be challenging when randomized controlled trials (RCTs) are not an option due to the limitation and restrictions posed by, for example, marketing, privacy, user agreement and sometimes engineering. Even when it is possible to run RCTs, issues like interference and compliance often lead to designs with low statistical power and prohibitively costly RCT. As a result, we face a growing need for applying causal inference methods and tooling to isolate the signal from noise, both in combination with quasi-experimental data and with observational data.
+Product launches and iterations are a critical driver of business success and growth, but understanding their causal impact can be challenging when randomized controlled trials (RCTs) are not an option due to the limitation and restrictions posed by, for example, marketing, privacy, user agreement and sometimes engineering. Even when it is possible to run RCTs, issues like interference and compliance often lead to designs with low statistical power and prohibitively costly RCT. As a result, we face a growing need for applying causal inference methods and tooling to isolate the signal from noise, both in combination with quasi-experimental data and observational data.
 
-Causal inference beyond randomization has a long history in academia. However, there are two significant challenges in applying observational causal inference methods from statistics and econometrics in industry: scalability and democratization. To overcome these challenges, scalable tooling and clear guidelines are required. This tutorial aims to cover observational causal inference methods and their applications at Airbnb and Snap, as well as the challenges involved in applying these methods in tech companies. The tutorial will also discuss the deployed ecosystems at Airbnb and Snap. Additionally, this tutorial will use real-world use cases to demonstrate how to formulate business questions within a causal inference framework.
+Causal inference beyond randomization has a long history in academia. However, there are two significant challenges in applying observational causal inference methods from statistics and econometrics in industry: scalability and democratization. To overcome these challenges, scalable tooling and clear guidelines are required. This tutorial aims to cover observational causal inference methods and their applications at Airbnb and Snap, as well as the challenges involved in applying these methods in tech companies in general. The tutorial will also discuss the deployed ecosystems at Airbnb and Snap. Additionally, this tutorial will use real-world use cases to demonstrate how to formulate business questions within a causal inference framework and how such questions are tackled by using the in-house scalable tools that Snap and Airbnb have built.
+
+Audience of this tutorial will learn a wide range of concepts and techniques for observational causal inference and quasi-experiments from matching, balancing, weighting, instrument variable to Bayesian regression and structural time series methods. Audience will also get familiar with engineering solutions to democratize and make causal inference scalable and approachable to business stakeholders beyond data scientists and researchers. Case studies in Airbnb and Snap would inspire the audience with challenging business problems, novel applications and real business impact.
+
 
 ## Outline
 
@@ -44,7 +47,6 @@ __Sicheng Lin__ is an applied data scientist on the Applied Research team at Sna
 
 __Xiaolin Shi__ is Head of Applied Research at Snap Inc., where she leads a team of scientists and engineers with expertise in causal inference, statistics, data mining and scalable machine learning. Prior to Snap, Xiaolin worked at Microsoft Bing, Microsoft Research and Yahoo Research. Her research interests span areas including causal inference, experimentation, user modeling and network science.
 
-__John Cai__
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}
